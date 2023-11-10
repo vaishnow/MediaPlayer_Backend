@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Leo",
+      "url": "https://m.media-amazon.com/images/M/MV5BYTAzYzVlYmItMWI1Yi00ZGRjLTkwYWUtYWM3ZDIwOGFiODk4XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+      "embedLink": "https://www.youtube.com/embed/IqwIOlhfCak"
+    },
+    {
+      "id": "3",
+      "caption": "Blue Eyes",
+      "url": "https://m.media-amazon.com/images/M/MV5BMjUxYmNmYjUtNmEwMy00ZGY4LTliMDgtODllNGU5ZTE5ZmI0XkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_.jpg",
+      "embedLink": "https://www.youtube.com/embed/lZXHoUnuPtQ"
+    },
+    {
+      "id": "4",
+      "caption": "Chaleya",
+      "url": "https://c.saavncdn.com/026/Chaleya-From-Jawan-Hindi-2023-20230814014337-500x500.jpg",
+      "embedLink": "https://www.youtube.com/embed/6cFo3PEr4zY"
+    },
+    {
+      "id": "7",
+      "caption": "Blinding Lights",
+      "url": "https://m.media-amazon.com/images/I/71gJ0XuQ+KS.jpg",
+      "embedLink": "https://www.youtube.com/embed/4NRXx6U8ABQ"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "Tutorials",
+      "allVideos": [],
+      "id": 1
+    },
+    {
+      "categoryName": "Songs",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "categoryName": "Tamil",
+      "allVideos": [],
+      "id": 3
+    },
+    {
+      "categoryName": "Malayalam",
+      "allVideos": [],
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "caption": "Leo",
+      "embedLink": "https://www.youtube.com/embed/IqwIOlhfCak",
+      "timestamp": "11/08/2023, 01:59:38 PM",
+      "id": 2
+    },
+    {
+      "caption": "Chaleya",
+      "embedLink": "https://www.youtube.com/embed/6cFo3PEr4zY",
+      "timestamp": "11/08/2023, 01:59:41 PM",
+      "id": 3
+    },
+    {
+      "caption": "Blue Eyes",
+      "embedLink": "https://www.youtube.com/embed/lZXHoUnuPtQ",
+      "timestamp": "11/08/2023, 01:59:42 PM",
+      "id": 4
+    },
+    {
+      "caption": "Leo",
+      "embedLink": "https://www.youtube.com/embed/IqwIOlhfCak",
+      "timestamp": "11/09/2023, 02:00:24 PM",
+      "id": 5
+    }
+  ]
+}
